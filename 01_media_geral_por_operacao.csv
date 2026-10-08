@@ -1,0 +1,6 @@
+﻿,Windows (ms),Linux (ms),Razão Windows/Linux
+Alocação,304.043,64.984,4.679
+Escrita,563.511,63.964,8.81
+Leitura,817.868,191.315,4.275
+Limpeza,34.999,7.727,4.529
+Total,1720.422,327.99,5.245
